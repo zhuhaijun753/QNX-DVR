@@ -1,0 +1,13 @@
+Date: January 18, 2017
+Function:
+1. The start and stop of vehicle traveling data recorder
+2. From the webcam to get the data save to the SD card.
+3. Video save length for 5 minutes
+4. SD card no pase will delete the first created file.
+5. Save the video quality is very good.
+
+If it need to improve the function, it still need to do some points:
+1. QNX system needs to realize automatically mount SD card when insert and unload when pull out .
+2. Web CAM transmission is after compression the h. 264 data, it is amount of too large.
+3. Play the video show the timestamp.
+
